@@ -21,7 +21,7 @@
       √ should appropriately handle letters at the end of the alphabet
       √ should allow for a negative shift that will shift to the left
 
-1. polybius() submission tests written by Thinkful
+2. polybius() submission tests written by Thinkful
 - encoding a message
       √ should encode a message by translating each letter to number pairs
       √ should translate both 'i' and 'j' to 42
@@ -32,7 +32,7 @@
       √ should leave spaces as is
       √ should return false if the length of all numbers is odd
 
-1. substitution() submission tests written by Thinkful
+3. substitution() submission tests written by Thinkful
 - error handling
       √ should return false if the substitution alphabet is missing
       √ should return false if the substitution alphabet is not exactly 26 characters
@@ -60,7 +60,7 @@
       √ should return false if shift is less than -26
       √ should return flase if shift is greater than 25
 
-1. Polybius Tests by Jino
+2. Polybius Tests by Jino
 - correctly encoding inputs
       √ should return the correct encrypted value
       √ should ignore spaces
@@ -70,7 +70,7 @@
       √ should ignore spaces
       √ should return the correct value for i or j
 
-1. Substitution Tests by Jino
+3. Substitution Tests by Jino
 - correctly encoding results
       √ should return the correct encrypted value
       √ should ignore space when encoding
